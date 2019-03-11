@@ -1,1 +1,2 @@
 firts code file
+I am developing a gaming project
